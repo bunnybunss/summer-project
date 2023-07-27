@@ -1,0 +1,28 @@
+h1{ 
+    background-color: aquamarine;
+    text-align: center;
+    padding: 1%;
+    border-radius: 40px;
+    border: 1px solid black;
+    margin: 40px;
+}
+.summer{ 
+    background-color: deeppink;
+    font-size: 40px;
+    text-align: center;
+    text-decoration: underline;
+
+}
+#lol{
+    background-color: beige;
+    display: inline;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    background-color: rgb(112, 78, 144);
+}

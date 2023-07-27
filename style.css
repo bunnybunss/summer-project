@@ -1,0 +1,24 @@
+h1{
+    color: rgb(228, 30, 132);
+    background-color: rgb(191, 146, 170);
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+h3{
+    color: deeppink;
+    background-color: deepskyblue;
+    font-size: medium;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+*{
+    background-color: rgb(101, 206, 244);
+}
+
+img {
+    width: 30%;
+    border-radius: 10px;
+    display: block;
+
+}
